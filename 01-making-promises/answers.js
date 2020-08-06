@@ -7,9 +7,12 @@
  */
 function makePromiseResolveWith3(){
   /* IMPLEMENT ME! */
+   Promise.resolve(3);
+
 }
 
 /**
+ * 
  * 
  * EXERCISE 2
  * 
